@@ -1,2 +1,1 @@
-bonjour Git !
-Deuxième ligne ajoutée.
+Bonjour git !
